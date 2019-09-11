@@ -14,7 +14,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-cms": "^4.0",
-        "dynamic/flexslider": "^3.0",
+        "dynamic/flexslider": "^4.0",
         "dynamic/silverstripe-collection": "^2.0",
         "dynamic/viewable-dataobject": "^2.0",
         "symbiote/silverstripe-gridfieldextensions": "^3.0"
